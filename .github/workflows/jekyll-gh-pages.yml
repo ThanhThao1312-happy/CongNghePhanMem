@@ -2,11 +2,18 @@
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
-  # Runs on pushes targeting the default branch
+  # Chạy khi có push vào nhánh mặc định (thường là main) và nhánh master
   push:
-    branches: ["main"]
+    branches:
+      - main
+      - master
 
-  # Allows you to run this workflow manually from the Actions tab
+  pull_request:
+    branches:
+      - main
+      - update
+
+  # Cho phép chạy workflow này thủ công từ tab Actions trên GitHub
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
