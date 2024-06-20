@@ -1,12 +1,14 @@
 Đây là project môn chuyên đề CNPM của thầy Lê Hà Thanh. Link: Tài liệu triển khai: 
 
+https://drive.google.com/drive/folders/14KjMaUMkmAfq_mIDrlsBOZ23R5I-g7-J?usp=sharing
+
 Các bước thực hiện:
 
 Tạo Repository trên GitHub: Nếu bạn chưa có, tạo một repository mới trên GitHub.
 
 Tạo thư mục .github/workflows: Trong repository của bạn, tạo một thư mục có tên là .github/workflows.
 
-Tạo File Workflow: Bên trong thư mục .github/workflows, tạo một file YAML (ví dụ: ci-cd.yml) để định nghĩa workflow.
+Tạo File Workflow: Bên trong thư mục .github/workflows, tạo một file YAML (ví dụ:jekyll-gh-pages.yml ) để định nghĩa workflow.
 
 Định nghĩa các triggers: Xác định khi nào workflow sẽ chạy, ví dụ: khi có push hoặc pull request vào nhánh main.
 
