@@ -1,4 +1,4 @@
-Đây là project môn chuyên đề CNPM của thầy Lê Hà Thanh. Link: Tài liệu triển khai: https://drive.google.com/drive/folders/1Rb2Wff80fpQBTgVdlVikJwEs5b7LjoN3?usp=sharing
+Đây là project môn chuyên đề CNPM của thầy Lê Hà Thanh. Link: Tài liệu triển khai: 
 
 Các bước thực hiện:
 
