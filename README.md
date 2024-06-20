@@ -1,6 +1,7 @@
 Đây là project môn chuyên đề CNPM của thầy Lê Hà Thanh. Link: Tài liệu triển khai: https://drive.google.com/drive/folders/1Rb2Wff80fpQBTgVdlVikJwEs5b7LjoN3?usp=sharing
 
 Các bước thực hiện:
+
 Tạo Repository trên GitHub: Nếu bạn chưa có, tạo một repository mới trên GitHub.
 
 Tạo thư mục .github/workflows: Trong repository của bạn, tạo một thư mục có tên là .github/workflows.
